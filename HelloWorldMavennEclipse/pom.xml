@@ -4,16 +4,16 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.application.maven</groupId>
-  <artifactId>HelloWorldMavenEclipse</artifactId>
+  <artifactId>HelloWorldMavennEclipse</artifactId>
   <version>0.0.1-SNAPSHOT</version>
 
-  <name>HelloWorldMavenEclipse</name>
+  <name>HelloWorldMavennEclipse</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-    <maven.compiler.release>12</maven.compiler.release>
+    <maven.compiler.release>17</maven.compiler.release>
   </properties>
 
   <dependencyManagement>
